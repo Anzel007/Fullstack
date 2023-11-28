@@ -60,3 +60,6 @@ class FoodmanduScrapper:
 
 S=FoodmanduScrapper()
 S.scrap_menu(1027)
+
+
+
