@@ -1,0 +1,6 @@
+
+			Name : sita,
+			Age : 21,
+			Mobile : 982,
+			Marks: 185
+		

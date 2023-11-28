@@ -1,0 +1,6 @@
+
+			Name : ram,
+			Age : 22,
+			Mobile : 981,
+			Marks: 184
+		
